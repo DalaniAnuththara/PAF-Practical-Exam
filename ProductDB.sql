@@ -1,0 +1,1 @@
+SELECT * FROM stockmanagment.product;
